@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite2" verbose="1" >
+  <test name="login" >
+    <classes>
+      <class name="com.hrms.testscripts.TC_101"/>
+      <class name="com.hrms.testscripts.TC_102"/>
+    </classes>
+  </test>
+ 
+ 
+</suite>

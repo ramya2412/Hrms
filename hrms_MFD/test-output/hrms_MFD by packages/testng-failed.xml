@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [hrms_MFD by packages]">
+  <test name="com.hrms.testscripts(failed)">
+    <classes>
+      <class name="com.hrms.testscripts.TC_104_PIM">
+        <methods>
+          <include name="meth2"/>
+        </methods>
+      </class> <!-- com.hrms.testscripts.TC_104_PIM -->
+      <class name="com.hrms.testscripts.TC_105_LoginTng">
+        <methods>
+          <include name="closeAppln"/>
+          <include name="openAppln"/>
+        </methods>
+      </class> <!-- com.hrms.testscripts.TC_105_LoginTng -->
+    </classes>
+  </test> <!-- com.hrms.testscripts(failed) -->
+</suite> <!-- Failed suite [hrms_MFD by packages] -->
