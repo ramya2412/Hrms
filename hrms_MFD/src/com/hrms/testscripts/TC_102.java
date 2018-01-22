@@ -11,6 +11,7 @@ public class TC_102 {
 		g.addEmp();
 		g.logout();
 		g.closeAppln();
+		System.out.println("appln closed");
 
 	}
 
