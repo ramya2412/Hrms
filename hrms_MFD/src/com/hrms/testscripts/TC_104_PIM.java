@@ -10,6 +10,7 @@ public class TC_104_PIM {
 			
 		
 		g.openAppln();
+		System.out.println("app opened");
 		g.login();
 		g.navigate_pim();
 		
